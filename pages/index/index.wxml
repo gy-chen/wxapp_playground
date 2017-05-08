@@ -1,0 +1,3 @@
+<!--pages/index/index.wxml-->
+<navigator url="pages/page1/page1">導覽至Page1</navigator>
+<navigator url="pages/page2/page2">導覽至Page2</navigator>

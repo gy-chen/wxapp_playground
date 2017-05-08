@@ -1,0 +1,6 @@
+<!--pages/page2/page2.wxml-->
+<view class="container">
+    <view class="box pink" />
+    <view class="box blue" />
+    <view class="box green" />
+</view>
