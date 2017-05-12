@@ -1,0 +1,5 @@
+<view>
+  <icon type="success" />
+  <text>Hello 基礎內容組件</text>
+  <progress percent="20" show-info />
+</view>

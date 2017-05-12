@@ -7,8 +7,8 @@
     bottom: 0;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: flex-start;
+    align-items: stretch;
 }
 
 .box {
@@ -25,5 +25,10 @@
 }
 
 .green {
+  display: none;
     background-color: green;
+}
+
+.container::after {
+  content: 'flex-start'
 }

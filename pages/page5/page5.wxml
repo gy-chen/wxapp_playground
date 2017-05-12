@@ -1,0 +1,21 @@
+<form>
+  <label for="switch_1">Switch</label>
+  <switch id="switch_1" /> 
+
+  <input name="input_1" placeholder="input demo" />
+
+  <slider name="slider_1" show-value />
+
+  <radio-group name="radio_1">
+    <label><radio value="radio_option_1"/>radio1</label>
+    <label><radio value="radio_option_2"/>radio2</label>
+  </radio-group>
+
+  <checkbox-group name="checkbox_1">
+    <label><checkbox value="checkbox_option_1"/>checkbox1</label>
+    <label><checkbox value="checkbox_option_2"/>checkbox2</label>
+  </checkbox-group>
+
+  <button formType="submit">Submit</button>
+  <button formType="reset">Reset</button>
+</form>

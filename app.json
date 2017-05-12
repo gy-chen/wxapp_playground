@@ -2,21 +2,9 @@
     "pages": [
         "pages/index/index",
         "pages/page1/page1",
-        "pages/page2/page2"
-    ],
-    "tabBar": {
-      "list": [
-      {
-        "pagePath": "pages/index/index",
-        "text": "首頁"
-      }, 
-      {
-        "pagePath": "pages/page1/page1",
-        "text": "Page1"
-      },
-      {
-        "pagePath": "pages/page2/page2",
-        "text": "Page2"
-      }]
-    }
+        "pages/page2/page2",
+        "pages/page3/page3",
+        "pages/page4/page4",
+        "pages/page5/page5"
+    ]
 }
